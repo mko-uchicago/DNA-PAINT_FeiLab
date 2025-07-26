@@ -1,4 +1,4 @@
-# DNA-PAINT_FeiLab
+# DNA-PAINT_FeiLab SUMMARY OF COMMITS
 ***all python scripts run through terminal, Python 3.13
 
 1) Basic image analysis of DAPI/marker channels (DAPI/marker images)
