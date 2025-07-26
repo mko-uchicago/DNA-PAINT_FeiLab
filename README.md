@@ -12,3 +12,8 @@
 3) Alternate form of DNA-PAINT preparation scripts - picasso suite faithful vers. (STORM IMAGES)
 - new_render_test.py + picasso_faithful_storm_analyzer.py -> r1_picasso_faithful_analysis.png + r2_picasso_faithful_analysis.png
 - 11 panels using STORM image + marker image (1:5 pixel ratio for r1, r2): nuclear segmentation based on picasso methods, localization, picasso precision weighted rendering, picasso histogram, molecule assignment resolution of speckles versus backgrounds, backgrounds vs speckle counts, localization precision graph, photon counts, super resolution precision, super resolution histogram, localizion from frame distribution, summary of localization, segmentation, analysis, super resolution 
+
+
+CREDITS: 
+- Super-resolution images rendered using precision-weighted Gaussian rendering following methodology described in Picasso (Schnitzbauer, jungmannlab) with custom analysis code
+- UChicago Fei Lab provided images for dapi, marker, STORM nuclear speckle images
