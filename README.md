@@ -1,4 +1,5 @@
 # DNA-PAINT_FeiLab
+***all python scripts run through terminal, Python 3.13
 
 1) Basic image analysis of DAPI/marker channels (DAPI/marker images)
 - nuclear_speckle_simple_marker_dapi.py -> visuals in nuclear_speckle_results_marker_dapi.png
